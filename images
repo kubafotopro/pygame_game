@@ -1,0 +1,11 @@
+variable name          image file name         image size
+player                 player.png              64x64
+background             background.png          600x800
+enemies(list)          enemy.png               64x64
+bullets(list)          bullet.png              16x16
+bombs(list)            bomb.png                16x16
+bbonus(list)           bonus.png               16x16
+You need to download Mu. In the folder C:\Users\username\mu_code\images .
+You will also need to make your own images in Paint with dimensions in the table (from 1 to 7 lines). That's it!
+Mu program: https://codewith.mu/en/download
+
